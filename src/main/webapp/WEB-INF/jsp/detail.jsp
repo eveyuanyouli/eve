@@ -70,7 +70,6 @@
 <script src="https://cdn.bootcss.com/jquery.countdown/2.2.0/jquery.countdown.js"></script>
 
 <!-- 编写写交互逻辑 -->
-<script type="text/javascript" src=""></script>
 <script type="text/javascript" src="<c:url value="/resources/script/seckill.js"/>"></script>
 
 <script type="text/javascript">
